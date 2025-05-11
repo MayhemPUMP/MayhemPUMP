@@ -1,8 +1,7 @@
 # Mayhem.PUMP
 
-<p align="center">
-  <img src="./assets/logo.svg" alt="Mayhem.PUMP Logo" width="200"/>
-</p>
+![MayhemPUMP Logo](Logo.jpg)
+
 
 > Experience the future of gaming with Mayhem.PUMP - a revolutionary Web3 shooting game combining fast-paced action with blockchain innovation on Solana.
 
